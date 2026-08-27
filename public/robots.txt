@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://irancoin-premium.github.io/irancoin-trading-platform/sitemap.xml

@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body { background: #0A0A0B; color: #eae1d4; font-family: 'Inter','Vazirmatn',sans-serif; }
+.glass-surface { background: rgba(22,22,24,0.6); backdrop-filter: blur(20px); border: 1px solid rgba(212,175,55,0.1); }
